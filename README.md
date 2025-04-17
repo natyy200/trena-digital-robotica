@@ -13,6 +13,10 @@
 - 1 Sensor ultrassônico
 - 1 Display gráfico OLED
 
+## Software:
+
+- Arduino IDE
+
 ## Montagem do circuito:
 
 ![](img/circuito.jpg)
